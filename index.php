@@ -119,7 +119,7 @@
                         <div class="home_data">
                             <h1 class="home_title">Rimie Mauricia Nkou</h1>
                             <h3 class="home_subtitle">Etudiante à Neoma Business School</h3>
-                            <p class="home_description">Actuellement à la recherche d'un stage de 6mois en Développement Web à partir de juin 2022</p>
+                            <p class="home_description">Actuellement à la recherche d'un stage de 6 mois en Développement Web à partir de juin 2022</p>
                             <a href="#contact" class="button button--flex">
                                 Me contacter <i class="uil uil-message button_icon"></i>
                             </a>
@@ -600,8 +600,7 @@
             <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ WEBSITES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
             
             <section class="websites section" id="websites">
-                <h2 class="section_title">Projets</h2>
-                <span class="section_subtitle">Mes sites web</span>
+                <h2 class="section_title">Mes sites web</h2>
 
                 <div class="websites_container container swiper mySwiper">
 
@@ -629,9 +628,8 @@
                                 <span class="websites_subtitle">25/10/2021 - 19/11/2021</span>
                                 <p class="websites_description">La petite évasion est le 2ème projet réalisé à la Wild Code School. Le but était de créer 
                                     un site responsive en HTML/CSS & PHP en utilisant le principe de structure MVC. Nous devions aussi créer des relations entre les objets liés à la base de données.
-                                La petite évasion un jeu de labyrinthe où le personnage principal, Moriarty, s'est réfugié dans les égouts et tente de s'échapper du détective Sherlock Holmes. 
-                                Le but est de trouver la sortie représentée par une échelle le plus vite possible. L'utilisateur découvre le temps qu'il a mis à trouver la sortie et accède à 
-                                son classement une fois qu'il a fini la partie. Il peut également créer son propre labyrinthe.</p>
+                                La petite évasion est un jeu de labyrinthe où le personnage principal, Moriarty, s'est réfugié dans les égouts et tente de s'échapper du détective Sherlock Holmes. 
+                                Le but est de trouver la sortie représentée par une échelle le plus vite possible. Il peut également créer son propre labyrinthe.</p>
                                 <a href="https://github.com/mauricia-10/La-petite-vasion" class="button button--flex button--small websites_button" target="_blank">
                                     Voir github
                                     <i class="uil uil-arrow-right button_icon"></i>
@@ -661,8 +659,8 @@
                                 <h3 class="websites_title">E-contact</h3>
                                 <span class="websites_subtitle">29/11/2021 - 31/01/2021</span>
                                 <p class="websites_description">E-contact est un projet de fin de semestre en HTML/SCSS/JS/PHP et Symfony. Il a été réalisé avec un camarade de Neoma en immersion avec moi à la Wild Code School. 
-                                    Le but était de créer une application permettant à chaque utilisateur inscrit ou connecté de pouvoir gérer son annuaire de contact privé. Malgré le fait que nous avions jamais étudié symfony 
-                                    dû aux modalités d'échange avec Neoma, nous avons décidé d'utiliser le framework pour notre projet. Ainsi, nous avons donc appris Symfony en autodidacte. </p>
+                                    Le but était de créer une application permettant à chaque utilisateur inscrit ou connecté de pouvoir gérer son annuaire de contact privé. Malgré le fait que nous avions jamais étudié symfony, 
+                                    nous avons décidé d'utiliser le framework pour notre projet. Ainsi, nous avons donc appris Symfony en autodidacte. </p>
                                 <a href="https://github.com/mauricia-10/neoma-project" class="button button--flex button--small websites_button" target="_blank">
                                     Voir github
                                     <i class="uil uil-arrow-right button_icon"></i>
@@ -686,7 +684,7 @@
             <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DANSE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
             <section class="danse section" id="danse">
-                <h2 class="section_title">Centres d'intérêts</h2>
+                <h2 class="section_title">Côté perso</h2>
                 <span class="section_subtitle">Mes projets de danse</span>
 
                 <div class="danse_container container grid">
@@ -792,7 +790,7 @@
 
             <section class="contact section" id="contact">
                 <h2 class="section_title">Me Contacter</h2>
-                <span class="section_subtitle">Toujours joignable</span>
+                <span class="section_subtitle">Toujours joignable<i class="uil uil-grin-tongue-wink button_icon"></i></span>
 
                 <div class="contact_container container grid">
                     <div>
